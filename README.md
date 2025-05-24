@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bibi Mathew. I started coding while self learning programming using JavaScript and React Js.
 
-- TAKE A LOOK AT MY PORTFOLIO HERE: https://bibiusa.github.io/html-portfolio/
+- TAKE A LOOK AT MY PORTFOLIO HERE: https://bibiusa.github.io/Portfolio/
 
 - I am currently attending Foothill College in pursuit of an associates degree in Computer Science and plan on trasnferring to a Masters program soon.
   
