@@ -2,7 +2,7 @@
 
 - TAKE A LOOK AT MY PORTFOLIO HERE: https://bibiusa.github.io/Portfolio/
 
-- I am currently attending Foothill College in pursuit of an associates degree in Computer Science and plan on trasnferring to a Masters program soon.
+- I am currently attending Foothill College in pursuit of an associates degree in Computer Science and plan on transferring to a Masters program soon.
   
 - 👀 I’m interested in web and mobile development. I really enjoy both the front end and back end development. I plan on developing my skills in these.
 - 
